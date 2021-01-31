@@ -1,0 +1,40 @@
+item { 
+  id: 1
+  name: 'No parking No stopping'
+}
+
+item { 
+  id: 2
+  name: 'No entry'
+}
+
+item { 
+  id: 3
+  name: 'Pedestrian Crossing'
+}
+
+item { 
+  id: 4
+  name: 'Yield'
+}
+
+item { 
+  id: 5
+  name: 'Speed limit'
+}
+
+item { 
+  id: 6
+  name: 'Keep right'
+}
+
+item { 
+  id: 7
+  name: 'Priority road'
+}
+
+item { 
+  id: 8
+  name: 'No passing veh over 3.5 tons'
+}
+
